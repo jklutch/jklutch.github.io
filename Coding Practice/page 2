@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+	<title>My Webpage</title>
+</head>
+
+<body>
+	this is <strong>bold</strong><br>
+	this is <em>italic</em>
+
+	<a href="http://www.google.com">poop</a>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Stray_kitten_Rambo002.jpg">
+</body>
+<ul>
+	<li>home</li>
+	<li>page 2</li>
+	<li><a href="page 3.html">page 3</li>
+</ul>
+<ol>
+	<li>item 1</li>
+</html>
